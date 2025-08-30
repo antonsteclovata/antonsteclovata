@@ -91,7 +91,7 @@ public class Calculator {
 //                p("Ваш результат: " + res1);
 //                break;
 //
-//            default:
+//            def
 //                p("Вы ввели что-то неправильно");
 //        }
     }
