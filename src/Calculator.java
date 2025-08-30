@@ -113,15 +113,6 @@ public class Calculator {
                 for (int i = 1; i < list.size(); i++) {
                     res = res - list.get(i);
                 }
-                p("Ваш результат: " + res);
-                break;
-
-            case '*':
-                for (int i = 1; i < list.size(); i++) {
-                    res = res * list.get(i);
-                }
-                p("Ваш результат: " + res);
-                break;
 
             case '/':
                 for (int i = 1; i < list.size(); i++) {
